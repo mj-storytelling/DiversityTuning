@@ -1,0 +1,10 @@
+venv/*
+data/*
+data2/*
+checkpoints/*
+wandb/*
+*__pycache__*
+*.png
+human-eval/output/*
+human-eval/data_files/*
+.DS_Store
