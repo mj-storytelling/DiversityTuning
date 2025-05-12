@@ -42,6 +42,8 @@ You can run the evaluation on writing quality, semantic diversity, and style div
 
 For human evaluation, you can run `scripts_eval.prepare_human_eval_data` first to get the summarized versions of generated writings. Then, you can use this file to run annotation tasks on [Potato](https://github.com/davidjurgens/potato) (whose configuration code is under `human-eval`).
 
+Model checkpoints coming soon..!
+
 ## Citing the work
 
     @misc{chung2025modifyinglargelanguagemodel,
